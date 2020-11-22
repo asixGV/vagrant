@@ -7,6 +7,8 @@
 
 
 Aquest Vagrantfile juntament amb l'script d'aprovisionament ens permet executar de manera automàtica una MV integrada amb un stack LAMP i un panell d'administració ADMINER.
+
+
 [![N|Solid](https://www.adminer.org/static/images/adminer.png)](https://www.adminer.org/)
 
 [![N|Solid](https://www.apachefriends.org/images/xampp-logo-ac950edf.svg)](https://www.apachefriends.org/index.html)
